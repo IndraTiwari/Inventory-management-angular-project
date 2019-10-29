@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Samsung M43",
+      "category": "Mobile",
+      "availableUnits": "150",
+      "unitPrice": 122,
+      "location": "India",
+      "date": "2019-08-04T18:30:00.000Z",
+      "description": "Available everywhere"
+    },
+    {
+      "id": 3,
+      "productName": "Samsung M41",
+      "category": "Mobile",
+      "availableUnits": 111,
+      "unitPrice": 122,
+      "location": "India",
+      "date": "2019-08-04T18:30:00.000Z",
+      "description": "Available everywhere"
+    },
+    {
+      "productName": "Samsung M40",
+      "category": "Mobile",
+      "availableUnits": 111,
+      "unitPrice": 122,
+      "location": "India",
+      "date": "08/04/2019",
+      "description": "Available everywhere",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "productName": "Apple iPhone",
+      "category": "Moblie",
+      "availableUnits": "75",
+      "unitPrice": "78785",
+      "location": "India",
+      "date": "2019-08-05T18:30:00.000Z",
+      "description": "Available"
+    },
+    {
+      "productName": "Nokia 8",
+      "category": "Mobile",
+      "availableUnits": "59",
+      "unitPrice": "2751",
+      "location": "India",
+      "date": "2019-08-06T18:30:00.000Z",
+      "description": "Available",
+      "id": 6
+    }
+  ]
+}

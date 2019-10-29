@@ -1,0 +1,17 @@
+
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+    background-color: teal;
+    color: white;
+    height: 80;
+    /* widows: 180px; */
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    
+}

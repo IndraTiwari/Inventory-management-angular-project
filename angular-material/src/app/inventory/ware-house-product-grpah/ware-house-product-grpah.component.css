@@ -1,0 +1,12 @@
+.cancel{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    float: right;
+    border-radius: none;
+  }
+
+  button{
+    font-weight: bold;
+    border-radius: none;
+  }

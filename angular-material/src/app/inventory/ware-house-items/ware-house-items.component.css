@@ -1,0 +1,31 @@
+.product-card {
+    width: 300px;
+    /* margin: 4px;
+    padding: 1em; */
+  }
+mat-card-header{
+color: teal;
+text-align: center
+}
+
+mat-label,span,label{
+    font-weight: bold;
+}
+.btn-add{
+  background-color:rgb(9, 101, 117);
+  color: white;
+  font-weight: bold;
+  float: right;
+  border-radius: none;
+}
+.btn-graph{
+  background-color:rgb(117, 9, 18);
+  color: white;
+  font-weight: bold;
+  float: right;
+  border-radius: none;
+}
+h3{
+  color:rgb(12, 63, 129);
+  text-align: center
+}

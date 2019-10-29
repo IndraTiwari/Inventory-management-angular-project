@@ -1,0 +1,22 @@
+.form-content{
+    margin: 0 auto;
+    border: 2px;
+    width: 450px;
+}
+
+h3{
+    color:rgb(12, 63, 129);
+    text-align: center
+}
+.cancel{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    float: right;
+    border-radius: none;
+  }
+
+  button{
+    font-weight: bold;
+    border-radius: none;
+  }
